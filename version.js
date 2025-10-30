@@ -1,4 +1,4 @@
 {
   "version": "0.6.9",
-  "hash": "c258d7bc99f80da4b5b98d15ce250def27dae3e1f39552b8d4b93863e12981e5"
+  "hash": "0927af8111eabccf5dc5516550944bc9165b872e11be790aa86bd79ca896e488"
 }
