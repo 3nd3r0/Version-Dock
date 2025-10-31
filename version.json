@@ -1,4 +1,9 @@
 {
-  "version": "0.6.9",
-  "changelog": "Ajout du système auto-update"
+  "version": "0.7.0",
+  "changelog": [
+    "Ajout du timestamp personnalisé 🎯",
+    "Téléchargement automatique du ZIP sur le Bureau 💾",
+    "Embed Discord amélioré ✨",
+    "Console colorée avec chalk 🎨"
+  ]
 }
